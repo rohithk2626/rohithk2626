@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rohith Kotte 👋</h1>
 
 <p align="center">
-  <b>AI/ML Engineer · Full Stack Developer · Machine Learning · GenAI</b><br>
+  <b>AI/ML Engineer · Full Stack Developer · Software Engineer · Data Scientist</b><br>
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 - 🎓 Computer Science (AI &amp; ML) undergraduate 
 - 🤖 I love building AI-powered products, from Generative AI and LLM apps to complete ML systems: collecting the data, training the model, serving it through an API and putting it on a website people can use
 - 🏆 Hackathon participant, and I volunteer on organizing college hackathons with the **AIML Club**
-- 🎯 Interested in **AI/ML Engineering, Data Science, Generative AI / LLM apps, Full Stack Developer and Software Development** roles
+- 🎯 Aiming for **Software Engineering, AI/ML Engineering and Data Analytics / Data Science** roles
 - 🌱 Currently learning: Deep Learning, LLMs &amp; RAG, Data Structures &amp; Algorithms, Cloud &amp; MLOps
 
 ---
