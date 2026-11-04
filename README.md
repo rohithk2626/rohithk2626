@@ -2,7 +2,6 @@
 
 <p align="center">
   <b>AI/ML Engineering Student · Python · Machine Learning · GenAI</b><br>
-  B.E. CSE (AI &amp; ML) at MVSR Engineering College, Hyderabad · Class of 2028
 </p>
 
 <p align="center">
