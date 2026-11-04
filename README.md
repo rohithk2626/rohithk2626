@@ -20,7 +20,7 @@
 
 ## About me
 
-- 🎓 Computer Science (AI &amp; ML) undergraduate at **MVSR Engineering College**, Hyderabad (2024 – 2028)
+- 🎓 Computer Science (AI &amp; ML) undergraduate 
 - 🤖 I love building AI-powered products, from Generative AI and LLM apps to complete ML systems: collecting the data, training the model, serving it through an API and putting it on a website people can use
 - 🏆 Hackathon participant, and I volunteer on organizing college hackathons with the **AIML Club**
 - 🎯 Interested in **AI/ML Engineering, Data Science, Generative AI / LLM apps, Full Stack Developer and Software Development** roles
