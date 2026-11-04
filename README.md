@@ -1,16 +1,89 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Rohith Kotte 👋</h1>
 
-<!--
-**rohithk2626/rohithk2626** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>AI/ML Engineering Student · Python · Machine Learning · GenAI</b><br>
+  B.E. CSE (AI &amp; ML) at MVSR Engineering College, Hyderabad · Class of 2028
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=620&lines=Building+ML+models+that+solve+real+problems;Forecasting+ozone+%26+UV+with+XGBoost+and+LSTM;Python+%E2%80%A2+FastAPI+%E2%80%A2+scikit-learn+%E2%80%A2+PyTorch;Open+to+AI%2FML+and+SDE+internships" alt="Typing intro">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/rohith-kotte"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:kotterohith2006@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <!-- Uncomment once your website is live:
+  <a href="https://rohithk2626.github.io"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  -->
+</p>
+
+---
+
+## About me
+
+- 🎓 Computer Science (AI &amp; ML) undergraduate at **MVSR Engineering College**, Hyderabad (2024 – 2028)
+- 🤖 I like building complete ML products: collecting the data, training the model, serving it through an API and putting it on a website people can use
+- 🏆 Hackathon participant, and I volunteer on organizing college hackathons with the **AIML Club**
+- 🎯 Interested in **AI/ML Engineering, Data Science, Generative AI / LLM apps, Python Backend and Software Development** roles
+- 🌱 Currently learning: Deep Learning, LLMs &amp; RAG, Data Structures &amp; Algorithms, Cloud &amp; MLOps
+- 📫 Reach me at **kotterohith2006@gmail.com**
+
+---
+
+## Featured project
+
+### 🌍 [OzoneGuard AI](https://github.com/rohithk2626/OzoneGuard-AI)
+**Ground-level ozone and UV forecasting for any point in India.**
+
+A full-stack ML web app that combines satellite, atmospheric and weather data and forecasts the next 24 hours of ozone and UV.
+
+- Trained **XGBoost** and **LSTM** models for hourly 24-hour forecasts, each with a calibrated **90% prediction interval**
+- Brings together **NASA OMI** satellite ozone, **CAMS** air-quality data and **Open-Meteo** weather into one **FastAPI** backend
+- Interactive map with GPS and search, WHO UV risk levels, and history and analytics going back to 2022
+- **Firebase** login with saved places, **pytest** test suite running on **GitHub Actions**, and detailed docs on the methods, data leakage checks and limitations
+
+`Python` `FastAPI` `XGBoost` `PyTorch` `scikit-learn` `Pandas` `Firebase` `JavaScript` `GitHub Actions`
+
+<!-- Add more projects here as you build them, using the same format. -->
+
+---
+
+## Tech stack
+
+**Languages**<br>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css&perline=10" alt="Languages">
+
+**AI / ML &amp; Data**<br>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&perline=10" alt="ML frameworks"><br>
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-2E43B8?style=flat-square)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**Backend &amp; Frontend**<br>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,react,tailwind&perline=10" alt="Web">
+
+**Databases**<br>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase&perline=10" alt="Databases">
+
+**Tools &amp; Cloud**<br>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,aws,gcp,vscode&perline=10" alt="Tools">
+
+---
+
+## GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rohithk2626&show_icons=true&hide_border=true&theme=github_dark&count_private=true" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohithk2626&layout=compact&hide_border=true&theme=github_dark&langs_count=6" alt="Top languages">
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rohithk2626&hide_border=true&theme=github-dark-blue" alt="GitHub streak">
+</p>
+
+---
+
+<p align="center"><i>Learning by building, one project at a time.</i></p>
