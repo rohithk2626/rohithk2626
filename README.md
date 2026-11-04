@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=620&lines=Turning+Ideas+into+AI-Powered+Products;Building+Smart+Systems+with+Machine+Learning;Always+Learning+New+Technologies;Shaping+the+Future+with+AI" alt="Typing intro">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=620&lines=Turning+Ideas+into+AI-Powered+Products;Building+Smart+Systems+with+Machine+Learning;Always+Learning+New+Technologies" alt="Typing intro">
 </p>
 
 <p align="center">
