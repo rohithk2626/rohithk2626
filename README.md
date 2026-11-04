@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rohith Kotte 👋</h1>
 
 <p align="center">
-  <b>AI/ML Engineer · Full Stack Developer · Software Engineer · Data Scientist</b><br>
+  <b>AI/ML Engineer · Software Engineer · Data Scientist</b><br>
 </p>
 
 <p align="center">
