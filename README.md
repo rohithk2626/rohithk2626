@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=620&lines=Building+ML+models+that+solve+real+problems;Forecasting+ozone+%26+UV+with+XGBoost+and+LSTM;Python+%E2%80%A2+FastAPI+%E2%80%A2+scikit-learn+%E2%80%A2+PyTorch;Open+to+AI%2FML+and+SDE+internships" alt="Typing intro">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=620&lines=Turning+Ideas+into+AI-Powered+Products;Building+Smart+Systems+with+Machine+Learning;Always+Learning+New+Technologies;Shaping+the+Future+with+AI" alt="Typing intro">
 </p>
 
 <p align="center">
